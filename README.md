@@ -80,7 +80,8 @@ Select one of the options below for the param settingName
     "voice_input",
     "wifi_ip",
     "wifi",
-    "wireless"
+    "wireless",
+    "open_contact"
 ```
 
 ##Using the plugin for Android
